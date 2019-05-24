@@ -1,4 +1,0 @@
-#! /bin/bash
-
-nohup /home/lachlan/ArkServer/ShooterGame/Binaries/Linux/ShooterGameServer Aberration_P?QueryPort=27015?Port=7778?listen?SessionName=Abgrrration? -server -log -NoTransferFromFiltering -clusterid=universe1 &
-nohup /home/lachlan/ArkServer/ShooterGame/Binaries/Linux/ShooterGameServer TheIsland?QueryPort=27017?Port=7780?listen?SessionName=ErrrrLand? -server -log -NoTransferFromFiltering -clusterid=universe1 &
