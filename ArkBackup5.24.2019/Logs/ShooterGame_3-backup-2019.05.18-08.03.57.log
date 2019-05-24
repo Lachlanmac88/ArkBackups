@@ -1,0 +1,10 @@
+﻿[2019.05.17-12.03.58:571][  0]Log file open, 05/17/19 08:03:58
+[2019.05.17-12.03.58:571][  0]ARK Version: 296.101
+[2019.05.17-12.03.58:571][  0]PID: 1068
+[2019.05.17-12.04.25:232][  0]Primal Game Data Took 25.32 seconds
+[2019.05.17-12.04.55:013][  0]Server Initializing with BattlEye Anti-Cheat Protection. If you do not wish to use BattlEye, please launch with -NoBattlEye
+[2019.05.17-12.04.55:013][  0]BattlEye successfully started.
+[2019.05.17-12.05.04:454][  0]Server: "Extincterrn" has successfully started!
+[2019.05.17-12.05.11:413][  0]Commandline:  Extinction?RCONEnabled=True?RCONPort=27026?AltSaveDirectoryName=ExtinctionSaves?QueryPort=27021?Port=7783?SessionName=Extincterrn? -server -log -NoTransferFromFiltering -clusterid=universe1 -ClusterDirOverride=/home/lachlan/ArkServer/ShooterGame/ClusterData
+[2019.05.17-12.05.11:413][  0]Full Startup: 75.08 seconds (BP compile: 0.00 seconds)
+[2019.05.17-12.05.11:414][  0]Number of cores 8

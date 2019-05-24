@@ -1,0 +1,10 @@
+﻿[2019.04.16-18.38.49:471][  0]Log file open, 04/16/19 14:38:49
+[2019.04.16-18.38.49:471][  0]ARK Version: 294.101
+[2019.04.16-18.38.49:471][  0]PID: 27576
+[2019.04.16-18.39.02:131][  0]Primal Game Data Took 12.21 seconds
+[2019.04.16-18.39.15:405][  0]Server Initializing with BattlEye Anti-Cheat Protection. If you do not wish to use BattlEye, please launch with -NoBattlEye
+[2019.04.16-18.39.15:405][  0]BattlEye successfully started.
+[2019.04.16-18.39.32:153][  0]Server: "Abgrrration" has successfully started!
+[2019.04.16-18.39.43:823][  0]Commandline:  Aberration_P?AltSaveDirectoryName=AberrationSaves?RCONEnabled=True?RCONPort=27020?ServerAdminPassword=Winslow1?QueryPort=27015?Port=7777?SessionName=Abgrrration? -server -ActiveEvent=Easter -log -NoTransferFromFiltering -clusterid=universe1 -ClusterDirOverride=/home/lachlan/ArkServer/ShooterGame/ClusterData
+[2019.04.16-18.39.43:823][  0]Full Startup: 55.20 seconds (BP compile: 0.00 seconds)
+[2019.04.16-18.39.43:823][  0]Number of cores 8

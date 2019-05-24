@@ -1,0 +1,10 @@
+﻿[2019.05.17-12.03.58:572][  0]Log file open, 05/17/19 08:03:58
+[2019.05.17-12.03.58:572][  0]ARK Version: 296.101
+[2019.05.17-12.03.58:572][  0]PID: 1066
+[2019.05.17-12.04.25:232][  0]Primal Game Data Took 25.32 seconds
+[2019.05.17-12.04.55:722][  0]Server Initializing with BattlEye Anti-Cheat Protection. If you do not wish to use BattlEye, please launch with -NoBattlEye
+[2019.05.17-12.04.55:722][  0]BattlEye successfully started.
+[2019.05.17-12.05.21:563][  0]Server: "TheErrrland" has successfully started!
+[2019.05.17-12.05.29:582][  0]Commandline:  TheIsland?RCONEnabled=True?RCONPort=27022?AltSaveDirectoryName=IslandSaves?QueryPort=27017?Port=7779?SessionName=TheErrrland? -server -log -NoTransferFromFiltering -clusterid=universe1 -ClusterDirOverride=/home/lachlan/ArkServer/ShooterGame/ClusterData
+[2019.05.17-12.05.29:582][  0]Full Startup: 93.25 seconds (BP compile: 0.00 seconds)
+[2019.05.17-12.05.29:583][  0]Number of cores 8

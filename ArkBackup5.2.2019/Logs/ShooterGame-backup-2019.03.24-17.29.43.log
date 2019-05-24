@@ -1,0 +1,10 @@
+﻿[2019.03.24-21.24.30:067][  0]Log file open, 03/24/19 17:24:30
+[2019.03.24-21.24.30:067][  0]ARK Version: 294.101
+[2019.03.24-21.24.30:067][  0]PID: 6218
+[2019.03.24-21.24.42:329][  0]Primal Game Data Took 11.85 seconds
+[2019.03.24-21.24.50:197][  0]Server Initializing with BattlEye Anti-Cheat Protection. If you do not wish to use BattlEye, please launch with -NoBattlEye
+[2019.03.24-21.24.50:198][  0]BattlEye successfully started.
+[2019.03.24-21.24.50:200][  0]Server: "Abgrrration" has successfully started!
+[2019.03.24-21.24.54:892][  0]Commandline:  Aberration_P?QueryPort=27015?listen?SessionName=Abgrrration? -server -log
+[2019.03.24-21.24.54:892][  0]Full Startup: 25.62 seconds (BP compile: 0.00 seconds)
+[2019.03.24-21.24.54:892][  0]Number of cores 8

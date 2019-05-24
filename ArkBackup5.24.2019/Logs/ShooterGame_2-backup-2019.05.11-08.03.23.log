@@ -1,0 +1,10 @@
+﻿[2019.05.11-06.23.55:517][  0]Log file open, 05/11/19 02:23:55
+[2019.05.11-06.23.55:517][  0]ARK Version: 295.101
+[2019.05.11-06.23.55:517][  0]PID: 1062
+[2019.05.11-06.24.21:886][  0]Primal Game Data Took 25.05 seconds
+[2019.05.11-06.24.59:335][  0]Server Initializing with BattlEye Anti-Cheat Protection. If you do not wish to use BattlEye, please launch with -NoBattlEye
+[2019.05.11-06.24.59:335][  0]BattlEye successfully started.
+[2019.05.11-06.25.20:281][  0]Server: "Ragrrrrok" has successfully started!
+[2019.05.11-06.25.32:880][  0]Commandline:  Ragnarok?AltSaveDirectoryName=RagnarokSaves?RCONEnabled=True?RCONPort=27024?ServerAdminPassword=Winslow1?QueryPort=27019?Port=7781?SessionName=Ragrrrrok? -server -ActiveEvent=Easter -log -NoTransferFromFiltering -clusterid=universe1 -ClusterDirOverride=/home/lachlan/ArkServer/ShooterGame/ClusterData
+[2019.05.11-06.25.32:880][  0]Full Startup: 99.53 seconds (BP compile: 0.00 seconds)
+[2019.05.11-06.25.32:880][  0]Number of cores 8
