@@ -1,0 +1,3 @@
+#! /bin/bash
+
+nohup /home/lachlan/ArkServer/ShooterGame/Binaries/Linux/AbServer Aberration_P?AltSaveDirectoryName=AberrationSaves?RCONEnabled=True?RCONPort=27020?ServerAdminPassword=Winslow1?QueryPort=27015?Port=7777?SessionName=Abgrrration? -server -log -NoTransferFromFiltering -clusterid=universe1 -ClusterDirOverride=/home/lachlan/ArkServer/ShooterGame/ClusterData &

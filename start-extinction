@@ -1,0 +1,1 @@
+nohup /home/lachlan/ArkServer/ShooterGame/Binaries/Linux/ExServer Extinction?RCONEnabled=True?RCONPort=27026?AltSaveDirectoryName=ExtinctionSaves?QueryPort=27021?Port=7783?SessionName=Extincterrn? -server -log -NoTransferFromFiltering -clusterid=universe1  -ClusterDirOverride=/home/lachlan/ArkServer/ShooterGame/ClusterData &

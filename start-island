@@ -1,0 +1,1 @@
+nohup /home/lachlan/ArkServer/ShooterGame/Binaries/Linux/IsServer TheIsland?RCONEnabled=True?RCONPort=27022?AltSaveDirectoryName=IslandSaves?QueryPort=27017?Port=7779?SessionName=TheErrrland? -server -log -NoTransferFromFiltering -clusterid=universe1  -ClusterDirOverride=/home/lachlan/ArkServer/ShooterGame/ClusterData &
